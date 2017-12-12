@@ -33,3 +33,5 @@ Como usar:
 
 5# Executar "improvisation.pde", e utilizar o butão A do comando Wii para fazer notas
 
+
+ps. é preciso fazer o download da libraria do processing e coloca-la nos exemplos
