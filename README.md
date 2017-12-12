@@ -8,6 +8,8 @@ Software nescesário:
   
   
   
+_______________________________________________________
+
 
 Processing Libraria Utilizada:
 
@@ -15,6 +17,8 @@ http://www.explodingart.com/soundcipher/reference.html
 
 
 
+
+____________________________________________________________
 
 
 Como usar:
