@@ -1,11 +1,3 @@
-/**
-* Use a score object as a container for notes, phrases, chords,
-* and callbacks.
-* Notes can be on different channels, sounds, and beats.
-*
-* A SoundCipher example by Andrew R. Brown
-*/
-
 import arb.soundcipher.*;
 
 SCScore score = new SCScore();
